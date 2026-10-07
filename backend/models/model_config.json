@@ -1,0 +1,24 @@
+{
+    "selected_features": [
+        "ProductRelated",
+        "ProductRelated_Duration",
+        "ExitRates",
+        "PageValues",
+        "SpecialDay",
+        "Month",
+        "Returning_Visitor"
+    ],
+    "all_columns_order": [
+        "ProductRelated",
+        "ProductRelated_Duration",
+        "ExitRates",
+        "PageValues",
+        "SpecialDay",
+        "Month",
+        "Returning_Visitor"
+    ],
+    "categorical_cols": [
+        "Month",
+        "Returning_Visitor"
+    ]
+}

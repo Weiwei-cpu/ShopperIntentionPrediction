@@ -1,0 +1,25 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+venv/
+env/
+.env
+
+# Frontend / Node
+node_modules/
+dist/
+*.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Output
+output.txt
